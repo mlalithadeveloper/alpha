@@ -1,4 +1,4 @@
-# 🎨 testing 🚀
+# 🎨 LEARNING 🚀
 
 
 
@@ -14,7 +14,9 @@ This repository serves one simple purpose: to **demonstrate** the visual capabil
 | *Italic* | `*Italic*` | *Italic* |
 | ~~Strikethrough~~ | `~~Strikethrough~~` | ~~Strikethrough~~ |
 | **Combined** | `***Bold & Italic***` | ***Bold & Italic*** |
+| **capital**  | '**capital** | **CAPITAL** |
 | `Inline Code` | `` `Inline Code` `` | `Inline Code` |
+
 
 ---
 
@@ -39,13 +41,19 @@ Badges are a great way to add **color** and **graphics** to your README.
 * 🔴 Red item
 * 🟢 Green item
 * 🔵 Blue item
+*    white item
 
 ### Ordered List
 1. First point
 2. Second point
 3. Third point
 4. fourth pont
-5. fifth pont
+5. fifth point
+6. sixth point
+7. seventh point
+8. eigth point
+9. ninth point
+10.tenth point
 
 ### Blockquote (for attention)
 > 💡 **Tip:** Markdown supports HTML for more advanced styling, though it's often best to stick to pure Markdown for simplicity and consistency.
