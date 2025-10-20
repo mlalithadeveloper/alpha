@@ -49,7 +49,7 @@ Badges are a great way to add **color** and **graphics** to your README.
 4. fourth pont
 5. fifth point
 6. sixth point
-7. seventh point
+7. seventh po
 8. eigth point
 9. ninth point
 10.tenth point
@@ -59,6 +59,27 @@ Badges are a great way to add **color** and **graphics** to your README.
 | style    |  | markdown code | |  Rendering    |
 
 **capital**      **capital**      **CAPITAL**
+
+
+#Text Style
+
+|      style        |        |    markdown code    |       |     Rendering       |
+     **Bold**                      **Bold**                      **Bold**
+     _Italic_                      _Italic_                      _Italic_
+   ***Combined***              ***Bold & Italic***           ***Bold & Italic***
+
+
+## Drawaing tables
+
+|   Header1   |   |   Header2       |   Header3   |
+
+|---|---|---|     |---|---|---|    |---|---|---|
+                  |---|---|---|    |---|---|---|
+                                   |---|---|---|
+
+
+
+
 
 
 
