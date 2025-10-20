@@ -61,13 +61,15 @@ Badges are a great way to add **color** and **graphics** to your README.
 **capital**      **capital**      **CAPITAL**
 
 
+
+
 ## Description
 
-Names      Pets
 
-Leo        Cat
-Cooper     Dog
+Names         Pets
 
+Leo           Cat
+Cooper        Dog
 
 
 
