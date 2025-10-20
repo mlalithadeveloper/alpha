@@ -14,8 +14,7 @@ This repository serves one simple purpose: to **demonstrate** the visual capabil
 | *Italic* | `*Italic*` | *Italic* |
 | ~~Strikethrough~~ | `~~Strikethrough~~` | ~~Strikethrough~~ |
 | **Combined** | `***Bold & Italic***` | ***Bold & Italic*** |
-| **capital**  | '**capital** | **CAPITAL** |
-| `Inline Code` | `` `Inline Code` `` | `Inline Code` |
+|| `Inline Code` | `` `Inline Code` `` | `Inline Code` |
 
 
 ---
@@ -29,7 +28,7 @@ You can easily link to external resources like the **GitHub Homepage**:
 ### Decorative Badges
 Badges are a great way to add **color** and **graphics** to your README.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-username/your-repo-name/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/your-usern **capital**  | '**capital** | **CAPITAL** |ame/your-repo-name/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/github/explore?style=social)](https://github.com/github/explore)
 [![Hits](https://hits.seeyounexttime.com/count.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username%2Fyour-repo-name)](https://hits.seeyounexttime.com)
 
@@ -37,7 +36,7 @@ Badges are a great way to add **color** and **graphics** to your README.
 
 ## 📝 Lists & Blockquotes
 
-### Unordered List (using color with emojis)
+### Unordered Li **capital**  | '**capital** | **CAPITAL** |st (using color with emojis)
 * 🔴 Red item
 * 🟢 Green item
 * 🔵 Blue item
@@ -54,6 +53,27 @@ Badges are a great way to add **color** and **graphics** to your README.
 8. eigth point
 9. ninth point
 10.tenth point
+
+
+# Text Style
+| style    |  | markdown code | |  Rendering    |
+
+**capital**      **capital**      **CAPITAL**
+
+
+## Description
+
+Names      Pets
+
+Leo        Cat
+Cooper     Dog
+
+
+
+
+
+
+
 
 ### Blockquote (for attention)
 > 💡 **Tip:** Markdown supports HTML for more advanced styling, though it's often best to stick to pure Markdown for simplicity and consistency.
