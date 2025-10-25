@@ -9,13 +9,13 @@ This repository serves one simple purpose: to **demonstrate** the visual capabil
 
 ## ✨ Text Styling & Emphasis
 
-| Style | Markdown Code | Rendering |
-| :--- | :--- | :--- |
-| **Bold** | `**Bold**` | **Bold** |
-| *Italic* | `*Italic*` | *Italic* |
-| ~~Strikethrough~~ | `~~Strikethrough~~` | ~~Strikethrough~~ |
-| **Combined** | `***Bold & Italic***` | ***Bold & Italic*** |
-|| `Inline Code` | `` `Inline Code` `` | `Inline Code` |
+| Markdown Code | Rendering |
+| :--- | :--- |
+| `**Bold**` | **Bold** |
+| `*Italic*` | *Italic* |
+| `~~Strikethrough~~` | ~~Strikethrough~~ |
+| `***Bold & Italic***` | ***Bold & Italic*** |
+| `` `Inline Code` `` | `Inline Code` |
 
 
 ---
