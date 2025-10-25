@@ -3,6 +3,9 @@
 
 
 
+[stackedit.io](https://stackedit.io/app)
+
+
 This repository serves one simple purpose: to **demonstrate** the visual capabilities and rendering of **GitHub-flavored Markdown**. Use this as a quick reference for common formatting and decorative elements!
 
 ---
@@ -94,5 +97,3 @@ def markdown_demo():
     print(f"The message is: {message}")
 
 markdown_demo()
-
-(https://stackedit.io/app#)
