@@ -1,17 +1,29 @@
 
-#testing the list
 
-Ordered List
+# Ordered List
 
-    First point
-    Second point
-    Third point
-    fourth pont
-    fifth point
-    sixth point
-    seventh point
-    eigth point
-    ninth point 10.tenth point
+ 1. one
+ 2. two
+ 3. three
+ 4. four
+ 5. five
+ 6. six
+ 7. seven
+ 8. eight
+ 9. nine
+ 10.ten
+
+
+ ## unordered list
+
+ - computer inputs
+    - keyboard
+    - mouse
+
+ * audits
+    * internal
+    * external
+
 
 
 
