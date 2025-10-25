@@ -5,8 +5,9 @@
 
 [stackedit.io](https://stackedit.io/app)
 
+```
 <font color="red">This text is red.</font>
-
+```
 
 This repository serves one simple purpose: to **demonstrate** the visual capabilities and rendering of **GitHub-flavored Markdown**. Use this as a quick reference for common formatting and decorative elements!
 
