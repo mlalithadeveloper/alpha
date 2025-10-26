@@ -8,16 +8,16 @@
 
 
 
- | FRUITS | | COLORS | | TASTE:|
+ | FRUITS | | COLORS | | TASTE |
 
- |:---|:---:|---:|
+ | :--- | :---: | ---: |
 
 | orange | | orange colour | | sour |
 
-| apple | | red | |sweet |
+| apple | | red | | sweet |
 
-| kiwi | | brown | |tangy |
+| kiwi | | brown | | tangy |
 
-| pineapple | |yellow | | blend of sweet |
+| pineapple | | yellow | | blend of sweet |
 
 
