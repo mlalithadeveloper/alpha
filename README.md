@@ -1,19 +1,26 @@
 # 🎨 LEARNING TEXT STYLE 🚀
-
+<font color="red">#LEARNING TEXT STYLE</font>
 
 
 
 # Text Style
 
-| markdown code |         |  Rendering    |
+<font color="BLUE">##TEXT STYLE</font>
 
-  **capital**              **CAPITAL**
 
-  _italic_                  _italic_
+| markdown code |             |  Rendering    |
 
- ~~strike through~~       ~~strike through~~
+  **capital**                   **CAPITAL**
 
-  ***BOLD & italic*       ***BOLD & ITALIC***
+  _italic_                        _italic_
+
+ ~~strike through~~            ~~correct~~
+
+  ***BOLD & italic*            ***BOLD & ITALIC***
+
+
+
+
 
 
 
