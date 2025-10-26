@@ -2,23 +2,23 @@
 # Ordered List
 
  1. tv
-      *servicing
-      *repair
+      1. servicing
+      2. repair
 
  2. oven
-      -repair
-      -servicing
-      -replacement
+      1. repair
+      2. servicing
+      3. replacement
 
  3. washing machine
-      +exchange
+      1. exchange
 
  4. dish wash
-      -repair
+      1. repair
 
  5. fridge
-      +replacement
-      +repair
+      1. replacement
+      2. repair
 
 
 
