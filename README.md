@@ -8,22 +8,21 @@
 
 
 |           |         |                 |
-|  FRUITS   |  COLORS |  TASTE          |
+|  FRUITS   |  COLORS |  TASTE:         |
 |           |         |                 |
 |           |         |                 |
-| apple     | red     |  sweet          |
+| apple     | red     |  sweet:         |
 |           |         |                 |
 |           |         |                 |
-| orange    | orange  |  sour           |
+| orange    | orange  |  sour:          |
 |           | color   |                 |
 |           |         |                 |
 |           |         |                 |
-| kiwi      | brown   |  tangy          |                       |        |
+| kiwi      | brown   |  tangy:         |                               |
 |           |         |                 |
 |           |         |                 |                        |
 |           |         |                 |
-| pineapple | yellow  | blend of sweet  |                      |
-|           |         |                 |
+| pineapple | yellow  | blend of sweet: |                                 |         |                 |
 |           |         |                 |
 
 
