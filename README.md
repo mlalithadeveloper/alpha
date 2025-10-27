@@ -1,11 +1,12 @@
 # 🎨 LEARNING TEXT STYLE 🚀
-<font color="red">#LEARNING TEXT STYLE</font>
+<font color  ="BLUE">LEARNING TEXT STYLE</font>
 
 
 
 # Text Style
+<font color ="magenta">Text Style</font>
 
-<font color="BLUE">##TEXT STYLE</font>
+
 
 
 | markdown code |             |  Rendering    |
@@ -17,7 +18,6 @@
  ~~strike through~~            ~~correct~~
 
   ***BOLD & italic*            ***BOLD & ITALIC***
-
 
 
 
