@@ -1,34 +1,28 @@
 
 
 
-#**ASSIGNMENTS**
+
+
+
 
 <font color="red">ASSIGNMENTS</font>
-
-##**TYPES OF VEGETABLES**
-
 **FRUITS**
 
 1.**kiwi**
-
-2.**pineapple**
-
-3.___persimon___
-
-4.***___mongusteen***___
-
+2._pineapple_
+3.**persimon**
+4. ___***mongusteen***___
 5._avacado_
 
-
 <font color="blue">kiwi</font>
-
 <font color="red">pineapple</font>
-
 <font color="green">persimon</font>
+<font color="orange">mangosteen</font>
+<font color="dark magenta">avacado</font>
 
-<font color="magenata">mangosteen</font>
 
-<font color="organe">avacado</font>
+
+
 
 
 
