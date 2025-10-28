@@ -1,4 +1,35 @@
 
+
+
+#**ASSIGNMENTS**
+
+<font color="red">ASSIGNMENTS</font>
+
+##**TYPES OF VEGETABLES**
+
+**FRUITS**
+
+1.kiwi
+2.pineapple
+3.persimon
+4.mongusteen
+5.avacado
+
+<font color="blue">kiwi</font>
+<font color="red">pineapple</font>
+<font color="green">persimon</font>
+<font color="magenata">mongusteen</font>
+<font color="organe">avacado</font>
+
+
+
+
+
+
+
+
+
+
 # Ordered List
 
  1. tv
