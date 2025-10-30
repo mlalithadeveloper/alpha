@@ -5,8 +5,8 @@
 |Names of students | Marks |
 | :--- | :--- |
 | **Varun** | **75** |
-| _Shwetha | _60_ |
-
+| Shwetha | _60_ |
+| ***harini*** | 50 |
 
 
 
