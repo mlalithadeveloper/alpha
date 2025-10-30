@@ -1,5 +1,21 @@
 
 
+#Students
+
+|Names of students | Marks |
+| :--- | :--- |
+| **Varun** | **75** |
+| _Shwetha | _60_ |
+
+
+
+
+
+
+
+
+
+
 
 
 ## ✨ Text Styling & Emphasis
@@ -16,15 +32,6 @@
 
 
 
-
-
-Text Styling & Emphasis
-Markdown Code 	Rendering
-**Bold** 	Bold
-*Italic* 	Italic
-~~Strikethrough~~ 	Strikethrough
-***Bold & Italic*** 	Bold & Italic
-`Inline Code` 	Inline Code
 
 
 
