@@ -1,6 +1,24 @@
 
 
-#Students
+## CAIR DAY EXPENSES
+
+| **Name of Items** | **Sl No** | **Amount** |
+| :--- | :---: | ---: |
+| **FOOD** | 1 | **7,00,000** |
+| **Invitation** | 2| **3,00,000** |
+| **Reception** | 3| **4,00,000** |
+| **Decoration** | 4 | **5,00,000** |
+| **Transport** | 5 | **2,00,000** |
+| :---: | ---: |
+|***TOTAL**** | **21,00,000** |
+
+
+
+
+
+
+
+# Students
 
 | SLNO | Names of students | Marks |
 | :--- |:--- | :--- |
