@@ -2,6 +2,22 @@
 
 
 
+## ✨ Text Styling & Emphasis
+
+| Markdown Code | Rendering |
+| :--- | :--- |
+| `**Bold**` | **Bold** |
+| `*Italic*` | *Italic* |
+| `~~Strikethrough~~` | ~~Strikethrough~~ |
+| `***Bold & Italic***` | ***Bold & Italic*** |
+| `` `Inline Code` `` | `Inline Code` |
+
+
+
+
+
+
+
 Text Styling & Emphasis
 Markdown Code 	Rendering
 **Bold** 	Bold
