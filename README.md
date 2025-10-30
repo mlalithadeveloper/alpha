@@ -2,14 +2,25 @@
 
 #Students
 
-|Names of students | Marks |
-| :--- | :--- |
-| **Varun** | **75** |
-| _Shwetha_ | _60_ |
-| ***harini*** | ***50*** |
-|~~pavithra~~ | ~~20~~ |
-| ___niki___ | ___40___
-| _suchi_ | _30_ |
+| SLNO | Names of students | Marks |
+
+| :--- |:--- | :--- |
+
+| **1** |*suchi* | *30* |
+
+| **2** |_Shwetha_ | _60_ |
+
+| **3** |**Varun** | **75** |
+
+| **4** |__niki___ | ___40___ |
+
+| **5** |***harini*** | ***50*** |
+
+| **6** |___teddy ___ | ___35___ |
+
+| **7** |~~~pavithra~~~ | ~~~20~~~ |
+
+
 
 
 
