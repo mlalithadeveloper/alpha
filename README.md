@@ -1,6 +1,48 @@
 
 
 
+
+Text Styling & Emphasis
+Markdown Code 	Rendering
+**Bold** 	Bold
+*Italic* 	Italic
+~~Strikethrough~~ 	Strikethrough
+***Bold & Italic*** 	Bold & Italic
+`Inline Code` 	Inline Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <font color="red">DIAGRAM</font>
 
 
