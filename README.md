@@ -5,16 +5,11 @@
 |Names of students | Marks |
 | :--- | :--- |
 | **Varun** | **75** |
-| Shwetha | _60_ |
-| ***harini*** | 50 |
-
-
-
-
-
-
-
-
+| _Shwetha_ | _60_ |
+| ***harini*** | ***50*** |
+|~~pavithra~~ | ~~20~~ |
+| ___niki___ | ___40___
+| _suchi_ | _30_ |
 
 
 
