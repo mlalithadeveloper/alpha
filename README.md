@@ -6,7 +6,7 @@
 
 # Learning links
 
-(https://docs.google.com/document/)
+[google](https://docs.google.com/document/)
 
 
 
