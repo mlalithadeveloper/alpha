@@ -12,7 +12,7 @@
 [blinkit](https://blinkit.com)
 
 
-[bisbaske](https://www.bigbasket.com)
+[bisbasket](https://www.bigbasket.com)
 
 
 
