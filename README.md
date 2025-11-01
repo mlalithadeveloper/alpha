@@ -4,17 +4,12 @@
 
 | **Name of Items** | **Sl No** | **Amount** |
 | :--- | :---: | ---: |
-| **FOOD** | 1 | **7,00,000** |
+| **Food** | 1 | **7,00,000** |
 | **Invitation** | 2| **3,00,000** |
 | **Reception** | 3| **4,00,000** |
 | **Decoration** | 4 | **5,00,000** |
-| **Transport** | 5 | **2,00,000**
-Aligned
-| ***TOTAL*** | **21,00,000** |
-<div style="text-align:
-right;">Right Aligned</div> |
-
-
+| **Transport** | 5 | **2,00,000** |
+|<td style="text-align:center;">**Total**| **21,00,000**</td>
 
 
 
