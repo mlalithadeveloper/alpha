@@ -9,7 +9,7 @@
 | **Reception** | 3| **4,00,000** |
 | **Decoration** | 4 | **5,00,000** |
 | **Transport** | 5 | **2,00,000** |
-|<td style="text-align:center;">**Total**| **21,00,000**</td>
+|<td style="text-align:center;">**Total**| **21,00,000**</td>|
 
 
 
