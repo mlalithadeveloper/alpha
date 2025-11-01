@@ -2,33 +2,30 @@
 
 
 
-
-
 # <font color="BLUE"> **LIST OF GROCERY LINKS**</font>
 
 
 
 
-
-[blinkit](https://blinkit.com)
-
-
-[bisbasket](https://www.bigbasket.com)
+1. [blinkit](https://blinkit.com)
 
 
-[dlecta cream](https://www.bigbasket.com/pd/30005096/dlecta-cream-200-ml-tetra-pack/00)
+2. [bisbasket](https://www.bigbasket.com)
 
 
-[freshtohome](https://www.freshtohome.com/)
+3. [dlecta cream](https://www.bigbasket.com/pd/30005096/dlecta-cream-200-ml-tetra-pack/00)
 
 
-[amazon](https://www.amazon.in)
+4. [freshtohome](https://www.freshtohome.com/)
 
 
-[zepto](https://www.zeptonow.com/)
+5. [amazon](https://www.amazon.in)
 
 
-[flipkart](https://www.flipkart.com/)
+6. [zepto](https://www.zeptonow.com/)
 
 
-[swiggyinstamart](https://www.swiggy.com/instamart)
+7. [flipkart](https://www.flipkart.com/)
+
+
+8. [swiggyinstamart](https://www.swiggy.com/instamart)
