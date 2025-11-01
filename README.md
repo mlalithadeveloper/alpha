@@ -30,4 +30,4 @@
 [flipkart](https://www.flipkart.com/)
 
 
-https://www.swiggy.com/instamart
+[swiggyinstamart](https://www.swiggy.com/instamart)
