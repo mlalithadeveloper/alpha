@@ -2,6 +2,21 @@
 
 
 
+## **GROCERY**
+| **SlNo** |  **Description** | **Links** |
+|  :---: | :--- | :--  |
+| 1 | Google | https://google.com |
+| 2 | Blinkit | https://blinkit.com|
+| 3 | Bigbasket | https://flipkart.com |
+| 4 | Amazon | https://amazon.com |
+| 5 | Freshtohome|https://freshtohome |
+
+
+
+
+
+
+
 # <font color="BLUE"> **LIST OF GROCERY LINKS**</font>
 
 
@@ -29,3 +44,20 @@
 
 
 8. [swiggyinstamart](https://www.swiggy.com/instamart)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
