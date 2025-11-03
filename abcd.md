@@ -1,8 +1,8 @@
 
 
+[text](https://github.com/mlalithadeveloper/alpha/blob/text/README.md)
 
-
-https://github.com/mlalithadeveloper/alpha/blob/link/README.md
+[link](https://github.com/mlalithadeveloper/alpha/blob/link/README.md)
 
 
 
