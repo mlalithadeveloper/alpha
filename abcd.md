@@ -2,7 +2,7 @@
 
 [text](https://github.com/mlalithadeveloper/alpha/blob/text/README.md)
 
-[link](https://github.com/mlalithadeveloper/alpha/blob/link/README.md)
+[readme](https://github.com/mlalithadeveloper/alpha/blob/link/README.md)
 
 
 
