@@ -1,13 +1,7 @@
 
-# 🎨 LEARNING 🚀
 
 
-
-# **this is a image link**
-
-<font color="red">this is image link</font
+#learning html tags
 
 
-
-
-![picture](https://thumbs.dreamstime.com/b/radiant-empty-stage-setup-dazzling-spotlights-vibrant-lights-great-concert-show-music-performances-talk-shows-club-367400682.jpg?w=992)
+<img src="https://i.ibb.co/8tXFHtK/nature-9899712-1280.jpg">
