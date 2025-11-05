@@ -16,24 +16,22 @@ There are 3 best Hill Stations to travel in India.
 1.<u>**Ooty**</u>:Nicknamed the "Queen of Hill Stations," famous for its pleasant climate, botanical gardens, tea gardens, and the Nilgiri Mountain Railway.
 
 
-<img src="https://i.ibb.co/8tXFHtK/nature-9899712-1280.jpg">
-
-
-<imag.src="https://pixabay.com/photos/bird-fauna-roof-relax-view-9920902/">
+<img src="https://cdn.pixabay.com/photo/2025/04/17/17/10/reed-9540853_1280.jpg">
 
 
 
 2.<u>**Munnar**</u>:Celebrated for its expansive tea and coffee plantations, misty valleys, waterfalls, and the Eravikulam National Park.
 
 
-<img.src="https://pixabay.com/photos/candles-candlelight-tea-lights-9874140/">
 
+<img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 
 
 3.<u**Kodaikanal**</u>:A serene lakeside resort town in the Palani Hills, known as the "Princess of Hill Stations".
 
 
-<img.src="https://pixabay.com/photos/adventure-alps-cloudy-dolomite-9669323/">
+
+<img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
 
 
 **Summary**
