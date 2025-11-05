@@ -2,7 +2,7 @@
 <font color="red"><u>**INTRODUCTION**</u></font>
 
 
-There are 3 best Hill Stations to travel in India.
+Three best Hill Stations to travel in India.
 
 
 <font color="blue"><u>**Namely**</u></font>
@@ -60,8 +60,8 @@ wooded forests, and cascading waterfalls that offer a tranquil escape
 
 **Summary**:
 
-Hill Stations can be selected to travel in India as per your convenience with above information.
-
+Hill Stations can be selected to travel in India as per above information, for more details of the
+above places refer to the links given below.
 
 
 <u>**Reference**:</u>
