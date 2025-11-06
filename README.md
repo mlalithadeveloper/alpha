@@ -4,7 +4,7 @@
 
 # Three best Hill Stations
 
- The following article will describe the three best hill stations to travel in India.
+ The following article will describe how to travel.
 
 ## Ooty
 
