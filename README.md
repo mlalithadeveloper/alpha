@@ -2,10 +2,12 @@
 
 
 
-Three best Hill Stations to travel in India.
+#Three best Hill Stations to travel in India.
 
 
-**Ooty**: Ooty, the "Queen of Hill Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
+##Ooty:
+
+Ooty, the "Queen of Hill Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
 known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling tea gardens,
 serene lakes, and a historic mountain railway.
 
@@ -20,7 +22,9 @@ Places to visit:
 
 
 
-**Munnar**: Munnar is a picturesque hill station located in the Western Ghats of Kerala, renowned for its sprawling,
+##Munnar:
+
+Munnar is a picturesque hill station located in the Western Ghats of Kerala, renowned for its sprawling,
 lush green tea plantations. Situated at the confluence of three mountain streams, it was once a popular summer resort
 during the British colonial era and is now a major tourist destination known for its misty mountains, scenic valleys,
 and diverse wildlife.Celebrated for its expansive tea and coffee plantations, misty valleys, waterfalls,
@@ -36,7 +40,9 @@ Places to visit:
 <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 
 
-**Kodaikanal**: Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
+##Kodaikanal:
+
+Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
 of the Western Ghats in Tamil Nadu. It is renowned for its picturesque, star-shaped Kodaikanal Lake, mist-covered cliffs,
 wooded forests, and cascading waterfalls that offer a tranquil escape
 
@@ -52,16 +58,16 @@ Places to visit:
 
 
 
-**Summary**:
+##Summary
 
-**The Details of three hill station are given in table below**:
+The Details of three hill station are given in table below:
 
 
-|  |**Distance** | **Temperature** | **Altitude** |
+|  | Distance | Temperature | Altitude |
 | - | :--- | :---: | ---: |
-| **Ooty** | 280 kms | 17c | 7350 ft |
-| **Munnar** | 530 kms | 21 c | 5200 ft |
-| **Kodaikanal** |470 Kms | 22 c | 7300 ft |
+| Ooty | 280 kms | 17c | 7350 ft |
+| Munnar | 530 kms | 21 c | 5200 ft |
+| Kodaikanal |470 Kms | 22 c | 7300 ft |
 
 
 
