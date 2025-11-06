@@ -14,9 +14,9 @@ serene lakes, and a historic mountain railway.
 
 ### Places to visit
 
-1. Doddabetta Peak.
-2. Botanical Garden.
-3. Pykara waterfalls.
+1. Doddabetta Peak
+2. Botanical Garden
+3. Pykara waterfalls
 
 <img src="https://cdn.pixabay.com/photo/2025/04/17/17/10/reed-9540853_1280.jpg">
 
@@ -30,9 +30,9 @@ and the Eravikulam National Park.
 
 ### Places to visit
 
-1. plantations and Museum.
-2. wildlife Sancturies.
-3. Tea Factory.
+1. Plantations and Museum
+2. Wildlife Sancturies
+3. Tea Factory
 
 <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 
@@ -44,15 +44,15 @@ wooded forests, and cascading waterfalls that offer a tranquil escape
 
 ### Places to visit
 
-1. Silver Cascade Falls.
-2. Bryant Park.
-3. Green valley view point.
+1. Silver Cascade Falls
+2. Bryant Park
+3. Green valley view point
 
 <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
 
 ## Summary
 
-The Details of three hill station are given in table below:
+The Details of three hill station are given in table below
 
 
 |  | Distance | Temperature | Altitude |
