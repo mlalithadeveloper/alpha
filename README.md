@@ -1,7 +1,19 @@
 
 
 
-<img src="https://cdn.pixabay.com/photo/2022/10/23/14/20/nature-wallpaper-7541423_1280.jpg">
+
+<details>
+<summary>Way</summary>
+
+  ### My way
+  The way i walk everyday.
+
+  <img src="https://cdn.pixabay.com/photo/2022/10/23/14/20/nature-wallpaper-7541423_1280.jpg">
+
+</details>
+
+
+
 
 
 
