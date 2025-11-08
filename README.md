@@ -1,7 +1,7 @@
 
 # Three best Hill Stations
 
-<Details>
+<details>
 <summary>Ooty</summary>
 
 # Ooty
@@ -18,9 +18,9 @@ serene lakes, and a historic mountain railway.
 
 <img src="https://cdn.pixabay.com/photo/2025/04/17/17/10/reed-9540853_1280.jpg">
 
-</Details>
+</details>
 
-<Details>
+<details>
 <summary>Munnar</summary>
 
 # Munnar
@@ -39,10 +39,11 @@ and the Eravikulam National Park.
 
 <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 
-</Details>
+</details>
 
-<Details>
+<details>
 <summary>Kodaikanal</summary>
+
 
 # Kodaikanal
 
@@ -58,10 +59,10 @@ wooded forests, and cascading waterfalls that offer a tranquil escape
 
 <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
 
-</Details>
+</details>
 
 
-<Details>
+<details>
 <summary>Summary</summary>
 
 # Summary
@@ -76,7 +77,7 @@ The Details of three hill station are given in table below
 | Kodaikanal |470 Kms | 22 c | 7300 ft |
 
 
-</Details>
+</details>
 
 
 
