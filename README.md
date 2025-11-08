@@ -5,6 +5,12 @@
 
 <summary>Ooty</summary>
 
+<summary>Munnar</summary>
+
+<summary>Kodaikanal</summary>
+
+<summary>Summary</summary>
+
 ## Ooty
 
 Ooty, the "Queen of Hill Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
@@ -19,6 +25,9 @@ serene lakes, and a historic mountain railway.
 
 <img src="https://cdn.pixabay.com/photo/2025/04/17/17/10/reed-9540853_1280.jpg">
 
+</Details>
+
+<Details>
 
 <summary>Munnar</summary>
 
@@ -38,6 +47,10 @@ and the Eravikulam National Park.
 
 <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 
+</Details>
+
+<Details>
+
 <summary>Kodaikanal</summary>
 
 ## Kodaikanal
@@ -54,6 +67,11 @@ wooded forests, and cascading waterfalls that offer a tranquil escape
 
 <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
 
+</Details>
+
+<Details>
+
+<summary>Sumamry</summary>
 ### Summary
 
 The Details of three hill station are given in table below
