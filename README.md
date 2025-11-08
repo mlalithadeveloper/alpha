@@ -1,10 +1,9 @@
 
-
-
+<Details>
 
 # Three best Hill Stations
 
- The following article will describe how to travel.
+<summary>Ooty</summary>
 
 ## Ooty
 
@@ -19,6 +18,9 @@ serene lakes, and a historic mountain railway.
 3. Pykara waterfalls
 
 <img src="https://cdn.pixabay.com/photo/2025/04/17/17/10/reed-9540853_1280.jpg">
+
+
+<summary>Munnar</summary>
 
 ## Munnar
 
@@ -36,6 +38,8 @@ and the Eravikulam National Park.
 
 <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 
+<summary>Kodaikanal</summary>
+
 ## Kodaikanal
 
 Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
@@ -50,7 +54,7 @@ wooded forests, and cascading waterfalls that offer a tranquil escape
 
 <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
 
-## Summary
+### Summary
 
 The Details of three hill station are given in table below
 
@@ -62,7 +66,7 @@ The Details of three hill station are given in table below
 | Kodaikanal |470 Kms | 22 c | 7300 ft |
 
 
-
+</Details>
 
 
 
