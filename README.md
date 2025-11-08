@@ -4,6 +4,9 @@
 <Details>
 
 <summary>Ooty</summary>
+<summary>Munnar</summary>
+<summary>Kodaikanal</summary>
+<summary>Summary</summary>
 
 # Ooty
 
@@ -22,8 +25,6 @@ serene lakes, and a historic mountain railway.
 </Details>
 
 <Details>
-
-<summary>Munnar</summary>
 
 # Munnar
 
@@ -45,15 +46,13 @@ and the Eravikulam National Park.
 
 <Details>
 
-<summary>Kodaikanal</summary>
-
 # Kodaikanal
 
 Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
 of the Western Ghats in Tamil Nadu. It is renowned for its picturesque, star-shaped Kodaikanal Lake, mist-covered cliffs,
 wooded forests, and cascading waterfalls that offer a tranquil escape
 
-## laces to visit
+## Places to visit
 
 1. Silver Cascade Falls
 2. Bryant Park
@@ -63,9 +62,8 @@ wooded forests, and cascading waterfalls that offer a tranquil escape
 
 </Details>
 
-<Details>
 
-<summary>Summary</summary>
+<Details>
 
 # Summary
 
