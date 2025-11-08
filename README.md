@@ -1,7 +1,7 @@
 
-<Details>
-
 # Three best Hill Stations
+
+<Details>
 
 <summary>Ooty</summary>
 
@@ -29,8 +29,6 @@ serene lakes, and a historic mountain railway.
 
 <Details>
 
-<summary>Munnar</summary>
-
 ## Munnar
 
 Munnar is a picturesque hill station located in the Western Ghats of Kerala, renowned for its sprawling,
@@ -51,8 +49,6 @@ and the Eravikulam National Park.
 
 <Details>
 
-<summary>Kodaikanal</summary>
-
 ## Kodaikanal
 
 Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
@@ -71,8 +67,7 @@ wooded forests, and cascading waterfalls that offer a tranquil escape
 
 <Details>
 
-<summary>Sumamry</summary>
-### Summary
+#Summary
 
 The Details of three hill station are given in table below
 
