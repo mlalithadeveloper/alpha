@@ -61,7 +61,7 @@ wooded forests, and cascading waterfalls that offer a tranquil escape
 </Details>
 
 
-<Details><summary>Summary</summary>
+<Details>
 <summary>Summary</summary>
 
 # Summary
