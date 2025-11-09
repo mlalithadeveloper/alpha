@@ -23,9 +23,7 @@
    India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
    distant plains of Coimbatore and Mysore on clear days.
 
-
-
-   <img.src=:https://travelsetu.com/guide/doddabetta-peak-tourism">
+    <img.src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
 
 
 </details>
