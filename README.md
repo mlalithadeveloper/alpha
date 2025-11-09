@@ -3,8 +3,13 @@
 
 ## The following are the best three hill stations you can visit in india.
 
-<details>
 <summary>Ooty</summary>
+
+<summary>Munnar</summary>
+
+<summary>Kodaikanal</summary>
+
+<details>
 
    # Ooty
 
