@@ -1,6 +1,8 @@
 
 # Three best Hill Stations
 
+## Places to visit
+
 <details>
 <summary>Ooty</summary>
 
@@ -11,7 +13,6 @@
    serene lakes, and a historic mountain railway.
 
 
-## Places to visit
 
 <details>
 <summary>Doddabetta Peak</summary>
@@ -23,12 +24,12 @@
    India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
    distant plains of Coimbatore and Mysore on clear days.
 
-    <img src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
+   <img src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
+
+
 
 
 </details>
-
-
 
 
 
