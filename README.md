@@ -24,10 +24,19 @@
    India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
    distant plains of Coimbatore and Mysore on clear days.
 
-   <img src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
 
+<details>
+<summary>images</summary>
 
+   1.<img src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
 
+   2.<img.src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
+
+   3.<img.src="https://cdn.pixabay.com/photo/2025/06/27/07/30/clownfish-9683275_1280.jpg">
+
+   4.<img.src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
+
+   5.<img.src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
 
 </details>
 
