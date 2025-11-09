@@ -26,35 +26,18 @@
 
 
 <details>
-<summary>image 1</summary>
+<summary>Image Album</summary>
 
    <img src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
 
-</details>
-
-<details>
-<summary>image 2</summary>
 
    <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
 
-</details>
-
-<details>
-<summary>image 3</summary>
 
    <img src="https://cdn.pixabay.com/photo/2025/06/27/07/30/clownfish-9683275_1280.jpg">
 
-</details>
-
-<details>
-<summary>image 4</summary>
 
    <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
-
-</details>
-
-<details>
-<summary>image 5</summary>
 
 
   <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
