@@ -23,9 +23,10 @@
    India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
    distant plains of Coimbatore and Mysore on clear days.
 
-   <img.src="https://www.shutterstock.com/image-photo/ooty-doddabetta-peak-mountain-view-trees-2395251231">
 
-   <img.src="https://www.tripadvisor.in/Attraction_Review-g297679-d2639637-Reviews-Doddabetta_Peak-Ooty_Udhagamandalam_The_Nilgiris_District_Tamil_Nadu.html">
+
+   <img.src=:https://travelsetu.com/guide/doddabetta-peak-tourism">
+
 
 </details>
 
