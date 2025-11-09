@@ -25,7 +25,7 @@
 
    <img.src="https://www.shutterstock.com/image-photo/ooty-doddabetta-peak-mountain-view-trees-2395251231">
 
-
+   <img.src="https://www.tripadvisor.in/Attraction_Review-g297679-d2639637-Reviews-Doddabetta_Peak-Ooty_Udhagamandalam_The_Nilgiris_District_Tamil_Nadu.html">
 
 </details>
 
