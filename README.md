@@ -3,13 +3,10 @@
 
 ## The following are the best three hill stations you can visit in india.
 
-<summary>Ooty</summary>
-
-<summary>Munnar</summary>
-
-<summary>Kodaikanal</summary>
 
 <details>
+
+<summary>Ooty</summary>
 
    # Ooty
 
@@ -85,7 +82,7 @@
    of the Western Ghats in Tamil Nadu. It is renowned for its picturesque, star-shaped Kodaikanal Lake, mist-covered cliffs,
    wooded forests, and cascading waterfalls that offer a tranquil escape
 
-   ## Places to visit
+   ## Places to visit<summary>Ooty</summary>
 
    1. Silver Cascade Falls
    2. Bryant Park
@@ -112,4 +109,4 @@
 </details>
 
 
-file:///home/baseuser/alpha/istockphoto-1063148786-2048x2048.webp
+<file:///home/baseuser/alpha/istockphoto-1063148786-2048x2048.webp>
