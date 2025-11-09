@@ -10,9 +10,24 @@
    known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling tea gardens,
    serene lakes, and a historic mountain railway.
 
-   ## Places to visit
 
-      1. Doddabetta Peak
+## Places to visit
+
+<details>
+<summary>Doddabetta Peak</summary>
+
+
+   ### Doddabetta Peak
+
+   Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
+   India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
+   distant plains of Coimbatore and Mysore on clear days.
+
+    <img.src="https://timesofindia.indiatimes.com/travel/things-to-do/doddabetta-peak/articleshow/25767684.cms.">
+
+</details>
+
+
       2. Botanical Garden
       3. Pykara waterfalls
 
