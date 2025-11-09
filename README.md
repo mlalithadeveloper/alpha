@@ -1,7 +1,7 @@
 
 # Three best Hill Stations
 
-## Places to visit
+## The following are the best hill stations you can visit in india.
 
 <details>
 <summary>Ooty</summary>
