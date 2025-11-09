@@ -23,9 +23,14 @@
    India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
    distant plains of Coimbatore and Mysore on clear days.
 
-    <img.src="https://timesofindia.indiatimes.com/travel/things-to-do/doddabetta-peak/articleshow/25767684.cms.">
+   <img.src="https://www.shutterstock.com/image-photo/ooty-doddabetta-peak-mountain-view-trees-2395251231">
+
+
 
 </details>
+
+
+
 
 
       2. Botanical Garden
