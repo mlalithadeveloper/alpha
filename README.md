@@ -5,7 +5,6 @@
 
 
 <details>
-
 <summary>Ooty</summary>
 
    # Ooty
@@ -30,17 +29,13 @@
 
    <img src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
 
-
    <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
-
 
    <img src="https://cdn.pixabay.com/photo/2025/06/27/07/30/clownfish-9683275_1280.jpg">
 
-
    <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
 
-
-  <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
+   <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
 
 
 
@@ -51,7 +46,6 @@
 </details>
 
 
-<details>
 <summary>Munnar</summary>
 
    # Munnar
