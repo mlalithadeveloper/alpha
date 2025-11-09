@@ -66,9 +66,6 @@
 </details>
 
 
-<details>
-<summary>Summary</summary>
-
    # Summary
 
    The Details of three hill station are given in table below
