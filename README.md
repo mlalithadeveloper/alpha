@@ -1,10 +1,12 @@
 
 # Three best Hill Stations
 
-## The following are the best hill stations you can visit in india.
+## The following are the best three hill stations you can visit in india.
 
 <details>
 <summary>Ooty</summary>
+<summary>Munnar</summary>
+<summary>Kodaikanal</summary>
 
    # Ooty
 
@@ -46,7 +48,6 @@
 </details>
 
 
-
       2. Botanical Garden
       3. Pykara waterfalls
 
@@ -57,7 +58,6 @@
 
 
 <details>
-<summary>Munnar</summary>
 
    # Munnar
 
@@ -77,9 +77,8 @@
 
 
 </details>
-
+<summary>Munnar</summary>
 <details>
-<summary>Kodaikanal</summary>
 
 
    # Kodaikanal
