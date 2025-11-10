@@ -1,6 +1,6 @@
 
 # Three best Hill Stations
-### The following are the best three hill stations you can visit in india.
+## The following are the best three hill stations you can visit in india.
 <details>
 <summary>Ooty</summary>
 # Ooty
@@ -9,7 +9,7 @@ known for its pleasant climate and scenic beauty. It is a popular tourist destin
 gardens,serene lakes, and a historic mountain railway.
 <details>
    <summary>1.Doddabetta Peak</summary>
-   ### Doddabetta Peak
+   # Doddabetta Peak
    Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
    India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
    distant plains of Coimbatore and Mysore on clear days.
@@ -50,13 +50,12 @@ gardens,serene lakes, and a historic mountain railway.
    3. Green valley view point
    <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
 </details>
-### Summary
+# Summary
 The Details of three hill station are given in table below
    |  | Distance | Temperature | Altitude |
    | - | :--- | :---: | ---: |
    | Ooty | 280 kms | 17c | 7350 ft |
    | Munnar | 530 kms | 21 c | 5200 ft |
    | Kodaikanal |470 Kms | 22 c | 7300 ft |
-</details>
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/istockphoto-1063148786-2048x2048.webp">
 
