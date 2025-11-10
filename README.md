@@ -4,9 +4,10 @@
 <details>
 <summary>Ooty</summary>
 # Ooty
-Ooty, the "Queen of Hill Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
+Ooty, the "Queen of Hil🎨l Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
 known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling tea gardens,
 serene lakes, and a historic mountain railway.
+</details>
 <details>
    <summary>Doddabetta Peak</summary>
    ### Doddabetta Peak
@@ -23,7 +24,6 @@ serene lakes, and a historic mountain railway.
       2. Botanical Garden
       3. Pykara waterfalls
    </details>
-</details>
 <details>
    <summary>Munnar</summary>
    # Munnar
