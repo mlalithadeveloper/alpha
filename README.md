@@ -27,7 +27,7 @@
    <details>
       <summary>Image Album</summary>
 
-      <img src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-   doddabetta-peak_l_400_640.jpg">
+      <img src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
 
       <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
 
@@ -68,6 +68,7 @@
 
 </details>
 
+
 <details>
 <summary>Kodaikanal</summary>
 
@@ -105,5 +106,6 @@
 </details>
 
 
-<img.src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/istockphoto-1063148786-2048x2048.webp">
+
+<img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/istockphoto-1063148786-2048x2048.webp">
 
