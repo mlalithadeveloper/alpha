@@ -26,7 +26,7 @@
    </details>
 </details>
 
-# Muunar
+# Munnar
 <details>
    <summary>Munnar</summary>
    Munnar is a picturesque hill station located in the Western Ghats of Kerala, renowned for its sprawling,
