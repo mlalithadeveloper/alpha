@@ -15,6 +15,7 @@
       Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
       India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
       distant plains of Coimbatore and Mysore on clear days.
+   </details>
 </details>
 
 
