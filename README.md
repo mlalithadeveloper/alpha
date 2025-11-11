@@ -3,7 +3,7 @@
 ## The following are the best three hill stations you can visit in india.
 <details>
    <summary>Ooty</summary>
-      # Ooty
+      Ooty
          Ooty, the "Queen of Hill Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
          known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling tea
          gardens,serene lakes, and a historic mountain railway.
@@ -26,7 +26,7 @@
 
 <details>
    <summary>Munnar</summary>
-      # Munnar
+      Munnar
          Munnar is a picturesque hill station located in the Western Ghats of Kerala, renowned for its sprawling,
          lush green tea plantations. Situated at the confluence of three mountain streams, it was once a popular summer resort
          during the British colonial era and is now a major tourist destination known for its misty mountains, scenic valleys,
@@ -41,7 +41,7 @@
 
 <details>
    <summary>Kodaikanal</summary>
-      # Kodaikanal
+      Kodaikanal
          Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
          of the Western Ghats in Tamil Nadu. It is renowned for its picturesque, star-shaped Kodaikanal Lake, mist-covered cliffs,
          wooded forests, and cascading waterfalls that offer a tranquil escape
@@ -49,7 +49,7 @@
             1. Silver Cascade Falls
             2. Bryant Park
             3. Green valley view point
-      <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
+         <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
 </details>
 
 # Summary
