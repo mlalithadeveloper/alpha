@@ -90,3 +90,7 @@ The Details of three hill station are given in table below
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/gettyimages-1373098078-2048x2048.jpg">
 
 
+<img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/roses.jpg">
+
+
+
