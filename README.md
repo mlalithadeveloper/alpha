@@ -1,32 +1,54 @@
 # Three best Hill Stations
-## The following are the best three hill stations you can visit in india.
-# Ooty
+## The following are the three best .hill stations you can visit in india.
 <details>
    <summary>Ooty</summary>
    Ooty, the "Queen of Hill Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
    known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling tea
    gardens,serene lakes, and a historic mountain railway.
-   Places to visit
-   1. Doddabetta Peak.
-   2. Botanical Garden.
-   3. Pykara waterfalls
    <details>
-      <summary>1.Doddabetta Peak</summary>
-      Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
-      India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
-      distant plains of Coimbatore and Mysore on clear days.
+      <summary>Places to visit</summary>
+      1. Doddabetta Peak.
+      2. Botanical Garden.
+      3. Pykara Waterfalls.
       <details>
-         <summary>Image Album</summary>
-         <img src="https://hblimg.mmtcdn.com/content/hubble/img/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
-         <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
-         <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
-         <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
-         <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
+         <summary>1.Doddabetta Peak</summary>
+         Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
+         India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,including
+         distant plains of Coimbatore and Mysore on clear days.
+         <details>
+            <summary>Image Album</summary>
+            <img src="https://hblimg.mmtcdn.com/content/hubble/i<details>
+                  <summary>3.Pykara Waterfalls</summary>mg/ooty/mmt/activities/m_activities-ooty-doddabetta-peak_l_400_640.jpg">
+            <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
+            <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
+            <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
+            <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
+      <details>
+         <summary>2.Botonical Garden</summary>
+         Botanical Garden is a specialized garden that maintains a documented and curated collection of living plants for
+         the purposes of scientific research, conservation,education and display.
+      <details>
+         <summary>3.Pykara Waterfalls</summary>
+         Pykara Waterfalls is a scenic natural attraction located about 20-23 kilometers from Ooty in the Nilgiris
+         district of Tamil Nadu, India.
+         <details>
+            <summary>Origin</summary>
+            The falls are formed by the Pykara River, which originates from the Mukurthi Peak and is considered
+            scared by the local TOda Community.
+         <details>
+            <summary>Structure</summary>
+            The river cascades donw in a series of falls, with the final section dropping into two majestic falls of
+            approximately 55 meters (180ft) and 61 meters (200 ft).
+         </details>
       </details>
    </details>
 </details>
 
-# Munnar
+
+
+
+
+
 <details>
    <summary>Munnar</summary>
    Munnar is a picturesque hill station located in the Western Ghats of Kerala, renowned for its sprawling,
@@ -41,7 +63,6 @@
    <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 </details>
 
-# Kodaikanal
 <details>
    <summary>Kodaikanal</summary>
    Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
