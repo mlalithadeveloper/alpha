@@ -5,25 +5,21 @@
    Ooty, the "Queen of Hill Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
    known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling
    tea gardens,serene lakes, and a historic mountain railway.
+   Places to visit
+   1. Doddabetta Peak
+   2. Botanical Garden
+   3. Pykara Waterfalls
    <details>
-      <summary>### Places to visit</summary>
-      1. Doddabetta Peak
-            1. Amazing
-      2. Botanical Garden
-            2. Beautiful
-      3. Pykara Waterfalls
-            3. Pleasant
+      <summary>1.Doddabetta Peak</summary>
+      Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
+      India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,
+      including distant plains of Coimbatore and Mysore on clear days.
       <details>
-         <summary>1.Doddabetta Peak</summary>
-         Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
-         India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,
-         including distant plains of Coimbatore and Mysore on clear days.
-         <details>
-            <summary>Image Album</summary>
-            <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
-            <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
-            <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
-            <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
+         <summary>Image Album</summary>
+         <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
+         <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
+         <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
+         <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
    <details>
       <summary>2.Botonical Garden</summary>
       Botanical Garden is a specialized garden that maintains a documented and curated collection of living plants for
@@ -31,7 +27,7 @@
    <details>
       <summary>3.Pykara Waterfalls</summary>
       Pykara Waterfalls is a scenic natural attraction located about 20-23 kilometers from Ooty in the Nilgiris
-      district of Tamil Nadu, India.
+      district of Tamil Nad<details>
       <details>
          <summary>Origin</summary>
          The falls are formed by the Pykara River, which originates from the Mukurthi Peak and is considered
@@ -50,26 +46,22 @@
    during the British colonial era and is now a major tourist destination known for its misty mountains, scenic valleys,
    and diverse wildlife.Celebrated for its expansive tea and coffee plantations, misty valleys, waterfalls,
    and the Eravikulam National Park.
-   <details>
-      <summary>Places to visit</summary>
-      1. Plantations and Museum
-      2. Wildlife Sancturies
-      3. Tea Factory
-      <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
-   </details>
+   Places to visit
+   1.Plantations and Museum
+   2.Wildlife Sancturies
+   3.Tea Factory
+   <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 </details>
 <details>
    <summary>Kodaikanal</summary>
    Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
    of the Western Ghats in Tamil Nadu. It is renowned for its picturesque, star-shaped Kodaikanal Lake, mist-covered cliffs,
    wooded forests, and cascading waterfalls that offer a tranquil escape.
-   <details>
-      <summary>Places to visit</summary>
-      1. Silver Cascade Falls
-      2. Bryant Park
-      3. Green valley view point
-      <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
-   </details>
+   Places to visit
+   1. Silver Cascade Falls
+   2. Bryant Park
+   3. Green valley view point
+   <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
 </details>
 # Summary
 The Details of three hill station are given in table below
