@@ -4,16 +4,33 @@
    <summary>Ooty</summary>
    Ooty, the "Queen of Hill Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
    known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling
-   tea gardens,serene lakes, and a historic mountain railway.
-   Places to visit
+   tea gardens,serene lakes, and a historic mountain railways.
+</details>
+   ### places to visit
    1. Doddabetta Peak
    2. Botanical Garden
    3. Pykara Waterfalls
+
+
+
+
+
+
    <details>
       <summary>1.Doddabetta Peak</summary>
       Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
       India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,
       including distant plains of Coimbatore and Mysore on clear days.
+
+</details>
+
+
+
+
+
+
+
+
       <details>
          <summary>Image Album</summary>
          <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
@@ -27,15 +44,15 @@
    <details>
       <summary>3.Pykara Waterfalls</summary>
       Pykara Waterfalls is a scenic natural attraction located about 20-23 kilometers from Ooty in the Nilgiris
-      district of Tamil Nad<details>
+      district of Tamil Nadu.
       <details>
          <summary>Origin</summary>
          The falls are formed by the Pykara River, which originates from the Mukurthi Peak and is considered
-         scared by the local TOda Community.
+         scared by the local Community.
       <details>
          <summary>Structure</summary>
          The river cascades down in a series of falls, with the final section dropping into two majestic falls of
-         approximately 55 meters (180ft) and 61 meters (200 ft).
+         approximately 55 meters (180ft) and 61 meters (200 ft)
       </details>
    </details>
 </details>
