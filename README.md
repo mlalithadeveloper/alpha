@@ -22,23 +22,24 @@
          <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
       </details>
    </details>
+</details>
+<details>
+   <summary>Botonical Garden</summary>
+   Botanical Garden is a specialized garden that maintains a documented and curated collection of living plants for
+   the purposes of scientific research, conservation,education and display.
+</details>
+<details>
+   <summary>Pykara Waterfalls</summary>
+   Pykara Waterfalls is a scenic natural attraction located about 20-23 kilometers from Ooty in the Nilgiris
+   district of Tamil Nadu.
    <details>
-      <summary>Botonical Garden</summary>
-      Botanical Garden is a specialized garden that maintains a documented and curated collection of living plants for
-      the purposes of scientific research, conservation,education and display.
-   </details>
-   <details>
-      <summary>Pykara Waterfalls</summary>
-      Pykara Waterfalls is a scenic natural attraction located about 20-23 kilometers from Ooty in the Nilgiris
-      district of Tamil Nadu.
+      <summary>Origin</summary>
+      The falls are formed by the Pykara River, which originates from the Mukurthi Peak and is considered
+      scared by the local Community.
       <details>
-         <summary>Origin</summary>
-         The falls are formed by the Pykara River, which originates from the Mukurthi Peak and is considered
-         scared by the local Community.
-      <details>
-         <summary>Structure</summary>
-         The river cascades down in a series of falls, with the final section dropping into two majestic falls of
-         approximately 55 meters (180ft) and 61 meters (200 ft)
+      <summary>Structure</summary>
+      The river cascades down in a series of falls, with the final section dropping into two majestic falls of
+      approximately 55 meters (180ft) and 61 meters (200 ft)
       </details>
    </details>
 </details>
@@ -53,7 +54,10 @@
    1.Plantations and Museum
    2.Wildlife Sancturies
    3.Tea Factory
-   <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
+   <img src="https://cdn.pixabay.com/photo/<details>
+      <summary>Structure</summary>
+      The river cascades down in a series of falls, with the final section dropping into two majestic falls of
+      approximately 55 meters (180ft) and 61 meters (200 ft)2025/10/14/15/49/leaf-9894303_1280.jpg">
 </details>
 <details>
    <summary>Kodaikanal</summary>
