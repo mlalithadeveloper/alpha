@@ -6,23 +6,23 @@
    known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling
    tea gardens,serene lakes, and a historic mountain railways.
 </details>
-   places to visit
-   1. Doddabetta Peak
-   2. Botanical Garden
-   3. Pykara Waterfalls
+# places to visit
+1. Doddabetta Peak
+2. Botanical Garden
+3. Pykara Waterfalls
+<details>
+   <summary>Doddabetta Peak</summary>
+   Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
+   India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,
+   including distant plains of Coimbatore and Mysore on clear days.
+</details>
    <details>
-      <summary>Doddabetta Peak</summary>
-      Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
-      India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,
-      including distant plains of Coimbatore and Mysore on clear days.
+      <summary>Image Album</summary>
+      <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
+      <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
+      <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
+      <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
    </details>
-      <details>
-         <summary>Image Album</summary>
-         <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
-         <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
-         <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
-         <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
-      </details>
 <details>
    <summary>Botonical Garden</summary>
    Botanical Garden is a specialized garden that maintains a documented and curated collection of living plants for
@@ -44,6 +44,22 @@
       approximately 55 meters (180ft) and 61 meters (200 ft)
    </details>
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details>
    <summary>Munnar</summary>
    Munnar is a picturesque hill station located in the Western Ghats of Kerala, renowned for its sprawling,
