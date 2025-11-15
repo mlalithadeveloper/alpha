@@ -6,7 +6,7 @@ The following are the three best hill stations you can visit in india.
    known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling
    tea gardens,serene lakes, and a historic mountain railways.
 
-   ## places to visit
+   ## Places to visit
    1. Doddabetta Peak
    2. Botanical Garden
    3. Pykara Waterfalls
@@ -54,9 +54,9 @@ The following are the three best hill stations you can visit in india.
    and the Eravikulam National Park.
 
    ## Places to visit
-   1.Plantations and Museum
-   2.Wildlife Sancturies
-   3.Tea Factory
+   1. Plantations and Museum
+   2. Wildlife Sancturies
+   3. Tea Factory
    <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 </details>
 <details>
@@ -82,6 +82,6 @@ The Details of three hill station are given in table below
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/istockphoto-1063148786-2048x2048.webp">
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/gettyimages-1373098078-2048x2048.jpg">
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/roses.jpg">
-</details>
+
 
 
