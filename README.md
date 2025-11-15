@@ -39,8 +39,8 @@
    <details>
       <summary>Structure</summary>
       The river cascades down in a series of falls, with the final section dropping into two majestic falls of
-      approximately 55 meters (180ft) and 61 meters (200 ft)
-      </details>
+      approximately 55 meters (180ft) and 61 meters (200 ft).
+   </details>
 </details>
 <details>
    <summary>Munnar</summary>
