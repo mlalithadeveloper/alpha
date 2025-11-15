@@ -72,7 +72,7 @@ The Details of three hill station are given in table below
    | - | :--- | :---: | ---: |
    | Ooty | 280 kms | 17c | 7350 ft |
    | Munnar | 530 kms | 21 c | 5200 ft |
-   | Kodaikanal |470 Kms | 22 c | 7300 ft |
+   | Kodaikanal | 470 Kms | 22 c | 7300 ft |
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/istockphoto-1063148786-2048x2048.webp">
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/gettyimages-1373098078-2048x2048.jpg">
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/roses.jpg">
