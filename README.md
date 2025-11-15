@@ -9,6 +9,7 @@ The following are the three best hill stations you can visit in india.
    1. Doddabetta Peak
    2. Botanical Garden
    3. Pykara Waterfalls
+</details>
 <details>
    <summary>Doddabetta Peak</summary>
    Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
@@ -77,6 +78,6 @@ The Details of three hill station are given in table below
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/istockphoto-1063148786-2048x2048.webp">
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/gettyimages-1373098078-2048x2048.jpg">
 <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/roses.jpg">
-
+</details>
 
 
