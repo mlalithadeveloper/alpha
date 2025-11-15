@@ -19,7 +19,6 @@ The following are the three best hill stations you can visit in india.
       <summary>Image Album</summary>
       <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
       <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
-      <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
       <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
    </details>
 </details>
@@ -57,7 +56,10 @@ The following are the three best hill stations you can visit in india.
    1. Plantations and Museum
    2. Wildlife Sancturies
    3. Tea Factory
+<details>
+   <summary>Images</summary>
    <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
+</details>
 </details>
 
 <details>
@@ -73,8 +75,15 @@ The following are the three best hill stations you can visit in india.
       <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
    </details>
    2. Bryant Park
+   <details>
+      <summary>Image of Roses</summary>
+      <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/roses.jpg">
+   </details>
    3. Green valley view point
-
+   <details>
+      <summary>View Point</summary>
+      <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
+   </details>
 </details>
 
 # Summary
@@ -84,9 +93,12 @@ The Details of three hill station are given in table below
 | Ooty | 280 kms | 17c | 7350 ft |
 | Munnar | 530 kms | 21 c | 5200 ft |
 | Kodaikanal | 470 Kms | 22 c | 7300 ft |
-<img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/istockphoto-1063148786-2048x2048.webp">
-<img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/gettyimages-1373098078-2048x2048.jpg">
-<img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/roses.jpg">
+<details>
+   <summary>image of babies</summary>
+   <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/istockphoto-1063148786-2048x2048.webp">
+   <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/gettyimages-1373098078-2048x2048.jpg">
+</details>
+
 
 
 
