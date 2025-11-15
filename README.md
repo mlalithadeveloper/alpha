@@ -43,6 +43,7 @@ The following are the three best hill stations you can visit in india.
 </details>
 </details>
 </details>
+
 <details>
    <summary>Munnar</summary>
    Munnar is a picturesque hill station located in the Western Ghats of Kerala, renowned for its sprawling,
@@ -56,6 +57,7 @@ The following are the three best hill stations you can visit in india.
    3.Tea Factory
    <img src="https://cdn.pixabay.com/photo/2025/10/14/15/49/leaf-9894303_1280.jpg">
 </details>
+
 <details>
    <summary>Kodaikanal</summary>
    Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
