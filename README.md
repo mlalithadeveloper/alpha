@@ -23,8 +23,6 @@ The following are the three best hill stations you can visit in india.
       </details>
    </details>
 </details>
-</details>
-</details>
    <summary>Botanical Garden</summary>
    Botanical Garden is a specialized garden that maintains a documented and curated collection of living plants for
    the purposes of scientific research, conservation,education and display.
