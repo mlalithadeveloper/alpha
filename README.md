@@ -23,25 +23,25 @@ The following are the three best hill stations you can visit in india.
       </details>
    </details>
 </details>
-
-<details>
-   <summary>Botanical Garden</summary>
-   Botanical Garden is a specialized garden that maintains a documented and curated collection of living plants for
-   the purposes of scientific research, conservation,education and display.
-</details>
-<details>
-   <summary>Pykara Waterfalls</summary>
-   Pykara Waterfalls is a scenic natural attraction located about 20-23 kilometers from Ooty in the Nilgiris
-   district of Tamil Nadu.
    <details>
-      <summary>Origin</summary>
-      The falls are formed by the Pykara River, which originates from the Mukurthi Peak and is considered
-      scared by the local Community.
+      <summary>Botanical Garden</summary>
+      Botanical Garden is a specialized garden that maintains a documented and curated collection of living plants for
+      the purposes of scientific research, conservation,education and display.
    </details>
    <details>
-   <summary>Structure</summary>
-   The river cascades down in a series of falls, with the final section dropping into two majestic falls of
-   approximately 55 meters (180ft) and 61 meters (200 ft).
+      <summary>Pykara Waterfalls</summary>
+      Pykara Waterfalls is a scenic natural attraction located about 20-23 kilometers from Ooty in the Nilgiris
+      district of Tamil Nadu.
+      <details>
+         <summary>Origin</summary>
+         The falls are formed by the Pykara River, which originates from the Mukurthi Peak and is considered
+         scared by the local Community.
+      </details>
+   <details>
+      <summary>Structure</summary>
+      The river cascades down in a series of falls, with the final section dropping into two majestic falls of
+      approximately 55 meters (180ft) and 61 meters (200 ft).
+      </details>
    </details>
 </details>
 
@@ -61,7 +61,6 @@ The following are the three best hill stations you can visit in india.
    <summary>Photos</summary>
    <img src="http://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
    <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
-</details>
 </details>
 
 <details>
