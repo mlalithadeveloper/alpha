@@ -41,6 +41,7 @@ The following are the three best hill stations you can visit in india.
       approximately 55 meters (180ft) and 61 meters (200 ft).
    </details>
 </details>
+</details>
 <details>
    <summary>Munnar</summary>
    Munnar is a picturesque hill station located in the Western Ghats of Kerala, renowned for its sprawling,
