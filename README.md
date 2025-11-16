@@ -44,6 +44,8 @@ The following are the three best hill stations you can visit in india.
 </details>
 </details>
 </details>
+</details>
+</details>
 <details>
    <summary>Munnar</summary>
    Munnar is a picturesque hill station l7cb5365b8d560fc2dc87074e7d2b0c7f63e878b8ocated in the Western Ghats of Kerala, renowned for its sprawling,
@@ -56,10 +58,11 @@ The following are the three best hill stations you can visit in india.
    1. Plantations and Museum
    2. Wildlife Sancturies
    3. Tea Factory
-<details>
-   <summary>Photos</summary>
-   <img src="http://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
-   <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
+   <details>
+      <summary>Photos</summary>
+      <img src="http://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
+      <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
+   </details>
 </details>
 </details>
 <details>
@@ -84,6 +87,7 @@ The following are the three best hill stations you can visit in india.
       <summary>View Point</summary>
       <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
    </details>
+</details>
 </details>
 
 # Summary
