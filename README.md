@@ -1,7 +1,7 @@
 # Three best Hill Stations
 The following are the three best hill stations you can visit in india.
 <details>
-<summary>Ooty</summary>
+   <summary>Ooty</summary>
    Ooty, the "Queen of Hill Stations," is a picturesque town nestled in the Nilgiri Hills of Tamil Nadu,
    known for its pleasant climate and scenic beauty. It is a popular tourist destination featuring sprawling
    tea gardens,serene lakes, and a historic mountain railways.
@@ -10,8 +10,8 @@ The following are the three best hill stations you can visit in india.
    1. Doddabetta Peak
    2. Botanical Garden
    3. Pykara Waterfalls
-<details>
-   <summary>Doddabetta Peak</summary>
+   <details>
+      <summary>Doddabetta Peak</summary>
       Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
       India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,
       including distant plains of Coimbatore and Mysore on clear days.
