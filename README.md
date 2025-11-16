@@ -10,17 +10,16 @@ The following are the three best hill stations you can visit in india.
    1. Doddabetta Peak
    2. Botanical Garden
    3. Pykara Waterfalls
+<details>
+   <summary>Doddabetta Peak</summary>
+   Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
+   India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,
+   including distant plains of Coimbatore and Mysore on clear days.
    <details>
-      <summary>Doddabetta Peak</summary>
-      Doddabetta Peak is the highest mountain in the Nilgiri Hills and a popular tourist destination near Ooty in Tamil Nadu,
-      India.Standing at an elevation of 2,637 meters (8,652 feet), it offers panoramic views of the surrounding landscape,
-      including distant plains of Coimbatore and Mysore on clear days.
-      <details>
-         <summary>Image Album</summary>
-         <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
-         <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
-         <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
-      </details>
+      <summary>Image Album</summary>
+      <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
+      <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
+      <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
    </details>
 </details>
 <details>
@@ -63,7 +62,6 @@ The following are the three best hill stations you can visit in india.
       <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
    </details>
 </details>
-</details>
 <details>
    <summary>Kodaikanal</summary>
    Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
@@ -86,7 +84,6 @@ The following are the three best hill stations you can visit in india.
       <summary>View Point</summary>
       <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
    </details>
-</details>
 </details>
 
 # Summary
