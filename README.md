@@ -17,10 +17,12 @@ The following are the three best hill stations you can visit in india.
          <img src="https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/2024/04/Doddabetta-Cover.jpg">
          <img src="https://cdn.pixabay.com/photo/20<details>25/06/27/07/30/clownfish-9683275_1280.jpg">
          <img src="https://cdn.pixabay.com/photo/2025/11/05/20/57/monastery-9939590_1280.jpg">
+      </details>
    <details>
       <summary>Botanical Garden</summary>
       Botanical Garden is a specialized garden that maintains a documented and curated collection of living plants for
       the purposes of scientific research, conservation,education and display.
+   </details>
    <details>
       <summary>Pykara Waterfalls</summary>
       Pykara Waterfalls is a scenic natural attraction located about 20-23 kilometers from Ooty in the Nilgiris
