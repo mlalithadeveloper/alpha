@@ -57,6 +57,8 @@ The following are the three best hill stations you can visit in india.
       <img src="http://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
       <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
    </details>
+</details>
+</details>
 <details>
    <summary>Kodaikanal</summary>
     Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
@@ -68,15 +70,20 @@ The following are the three best hill stations you can visit in india.
    <details>
       <summary>Image</summary>
       <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
+   </details>
    2. Bryant Park
    <details>
       <summary>Image of Roses</summary>
       <img src="https://raw.githubusercontent.com/mlalithadeveloper/alpha/refs/heads/article1/roses.jpg">
+   </details>
    3. Green valley view point
    <details>
       <summary>View Point</summary>
       <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
    </details>
+</details>
+</details>
+</details>
 </details>
 # Summary
 The Details of three hill station are given in table below
