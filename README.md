@@ -85,9 +85,7 @@ The following are the three best hill stations you can visit in india.
 </details>
 </details>
 </details>
-</details>
-</details>
-</details>
+
 # Summary
 The Details of three hill station are given in table below
 |  | Distance | Temperature | Altitude |
