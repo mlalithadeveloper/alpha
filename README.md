@@ -54,7 +54,6 @@ The following are the three best hill stations you can visit in india.
       <img src="https://cdn.pixabay.com/photo/2024/11/28/19/24/candle-9231455_1280.png">
    </details>
 </details>
-</details>
 <details>
    <summary>Kodaikanal</summary>
     Kodaikanal, the "Princess of Hill Stations," is a charming resort town nestled in the Palani Hills
