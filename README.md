@@ -28,17 +28,15 @@ The following are the three best hill stations you can visit in india.
       <summary>Pykara Waterfalls</summary>
       Pykara Waterfalls is a scenic natural attraction located about 20-23 kilometers from Ooty in the Nilgiris
       district of Tamil Nadu.
-   <details>
-      <summary>Origin</summary>
-      The falls are formed by the Pykara River, which originates from the Mukurthi Peak and is considered
-      scared by the local Community.
+      <details>
+         <summary>Origin</summary>
+         The falls are formed by the Pykara River, which originates from the Mukurthi Peak and is considered scared by the local Community.
+      </details>
+      <details>
+         <summary>Structure</summary>
+         The river cascades down in a series of falls, with the final section dropping into two majestic falls of approximately 55 meters (180ft) and 61 meters (200 ft).
+      </details>
    </details>
-   <details>
-      <summary>Structure</summary>
-      The river cascades down in a series of falls, with the final section dropping into two majestic falls of
-      approximately 55 meters (180ft) and 61 meters (200 ft).
-   </details>
-</details>
 </details>
 </details>
 </details>
