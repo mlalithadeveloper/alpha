@@ -38,7 +38,6 @@ The following are the three best hill stations you can visit in india.
       </details>
    </details>
 </details>
-</details>
 <details>
    <summary>Munnar</summary>
    Munnar is a picturesque hill station l7cb5365b8d560fc2dc87074e7d2b0c7f63e878b8ocated in the Western Ghats of Kerala, renowned for its sprawling,lush green tea plantations. Situated at the confluence of three mountain streams, it was once a popular summer resort during the British colonial era and is now a major tourist destination known for its misty mountains, scenic valleys,
