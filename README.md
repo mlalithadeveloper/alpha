@@ -77,9 +77,6 @@ The following are the three best hill stations you can visit in india.
       <img src="https://cdn.pixabay.com/photo/2025/10/03/13/44/boathouse-9871057_1280.jpg">
    </details>
 </details>
-</details>
-</details>
-</details>
 
 # Summary
 The Details of three hill station are given in table below
